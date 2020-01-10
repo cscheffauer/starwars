@@ -1,0 +1,1 @@
+{"version":3,"sources":["Imprint.css"],"names":[],"mappings":"AAAA,SACI,wBAAyB,CACzB,UAAY,CACZ,aAAc,CACd,iBAAkB,CAClB,QAAS,CACT,SAAU,CACV,YACJ","file":"3.c02e1862.chunk.css","sourcesContent":[".Imprint {\n    background-color: #334053;\n    color: white;\n    display: block;\n    position: relative;\n    left: 25%;\n    width: 50%;\n    height: 500px;\n}"]}
