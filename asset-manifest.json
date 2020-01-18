@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "cscheffauer.github.io/starwars/static/css/main.c052ffff.chunk.css",
-    "main.js": "cscheffauer.github.io/starwars/static/js/main.ba8affc3.chunk.js",
-    "main.js.map": "cscheffauer.github.io/starwars/static/js/main.ba8affc3.chunk.js.map",
+    "main.css": "cscheffauer.github.io/starwars/static/css/main.13a83ee8.chunk.css",
+    "main.js": "cscheffauer.github.io/starwars/static/js/main.008ce614.chunk.js",
+    "main.js.map": "cscheffauer.github.io/starwars/static/js/main.008ce614.chunk.js.map",
     "runtime~main.js": "cscheffauer.github.io/starwars/static/js/runtime~main.3c9cca97.js",
     "runtime~main.js.map": "cscheffauer.github.io/starwars/static/js/runtime~main.3c9cca97.js.map",
     "static/css/2.eb45ad44.chunk.css": "cscheffauer.github.io/starwars/static/css/2.eb45ad44.chunk.css",
@@ -15,12 +15,12 @@
     "static/js/4.50198277.chunk.js": "cscheffauer.github.io/starwars/static/js/4.50198277.chunk.js",
     "static/js/4.50198277.chunk.js.map": "cscheffauer.github.io/starwars/static/js/4.50198277.chunk.js.map",
     "index.html": "cscheffauer.github.io/starwars/index.html",
-    "precache-manifest.59cf4860dd1e1d7a24bddd87f38ca119.js": "cscheffauer.github.io/starwars/precache-manifest.59cf4860dd1e1d7a24bddd87f38ca119.js",
+    "precache-manifest.41ba90dcdca837544f4ed3d01368894b.js": "cscheffauer.github.io/starwars/precache-manifest.41ba90dcdca837544f4ed3d01368894b.js",
     "service-worker.js": "cscheffauer.github.io/starwars/service-worker.js",
     "static/css/2.eb45ad44.chunk.css.map": "cscheffauer.github.io/starwars/static/css/2.eb45ad44.chunk.css.map",
     "static/css/3.be156923.chunk.css.map": "cscheffauer.github.io/starwars/static/css/3.be156923.chunk.css.map",
     "static/css/4.5627a905.chunk.css.map": "cscheffauer.github.io/starwars/static/css/4.5627a905.chunk.css.map",
-    "static/css/main.c052ffff.chunk.css.map": "cscheffauer.github.io/starwars/static/css/main.c052ffff.chunk.css.map",
+    "static/css/main.13a83ee8.chunk.css.map": "cscheffauer.github.io/starwars/static/css/main.13a83ee8.chunk.css.map",
     "static/media/MainPage.css": "cscheffauer.github.io/starwars/static/media/Starjedi.cc3019aa.ttf"
   }
 }
