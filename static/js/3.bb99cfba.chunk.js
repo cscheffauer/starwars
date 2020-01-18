@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{46:function(n,e,a){},48:function(n,e,a){"use strict";a.r(e);var i=a(0),t=a.n(i);a(46);e.default=function(){return t.a.createElement("div",{className:"Imprint tc dib br3 pa3 ma2 bw2 shadow-5"},"Imprint will displayed be here")}}}]);
-//# sourceMappingURL=3.bb99cfba.chunk.js.map
