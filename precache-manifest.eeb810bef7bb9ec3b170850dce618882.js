@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ea5c47dcd937a8c3934e7e063925ce28",
+    "revision": "39dc790e6b2a62272507a6569ab66ffa",
     "url": "cscheffauer.github.io/starwars/index.html"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "cscheffauer.github.io/starwars/static/css/4.5627a905.chunk.css"
   },
   {
-    "revision": "7fa7fa2f350e01568d49",
-    "url": "cscheffauer.github.io/starwars/static/css/main.680bed3b.chunk.css"
+    "revision": "b93f54c2b019b44dae58",
+    "url": "cscheffauer.github.io/starwars/static/css/main.13a83ee8.chunk.css"
   },
   {
     "revision": "b839771df8a29a69f237",
@@ -32,7 +32,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "cscheffauer.github.io/starwars/static/js/4.50198277.chunk.js"
   },
   {
-    "revision": "7fa7fa2f350e01568d49",
+    "revision": "b93f54c2b019b44dae58",
     "url": "cscheffauer.github.io/starwars/static/js/main.ba8affc3.chunk.js"
   },
   {
