@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3cafd0c4ddc8db72bd2f533109d411c5",
+    "revision": "dc9d5107360922e169c8889ffa7f60bc",
     "url": "/starwars/index.html"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/starwars/static/css/4.5627a905.chunk.css"
   },
   {
-    "revision": "09da36bbcbf1dd0c85fc",
-    "url": "/starwars/static/css/main.d299b0fd.chunk.css"
+    "revision": "4efbec27a7909c2688cb",
+    "url": "/starwars/static/css/main.f143657d.chunk.css"
   },
   {
     "revision": "b839771df8a29a69f237",
@@ -32,7 +32,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/starwars/static/js/4.50198277.chunk.js"
   },
   {
-    "revision": "09da36bbcbf1dd0c85fc",
+    "revision": "4efbec27a7909c2688cb",
     "url": "/starwars/static/js/main.d1ff591b.chunk.js"
   },
   {
@@ -42,5 +42,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "cc3019aa6439ef893839b8a0d6d0391d",
     "url": "/starwars/static/media/Starjedi.cc3019aa.ttf"
+  },
+  {
+    "revision": "4bf500b1479e6d334bc6967d374b7740",
+    "url": "/starwars/static/media/starsbackground.4bf500b1.png"
   }
 ]);
