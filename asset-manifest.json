@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/starwars/static/css/main.45a81e37.chunk.css",
+    "main.css": "/starwars/static/css/main.262c4da4.chunk.css",
     "main.js": "/starwars/static/js/main.10da04da.chunk.js",
     "main.js.map": "/starwars/static/js/main.10da04da.chunk.js.map",
     "runtime~main.js": "/starwars/static/js/runtime~main.425011bc.js",
@@ -15,12 +15,12 @@
     "static/js/4.5484291a.chunk.js": "/starwars/static/js/4.5484291a.chunk.js",
     "static/js/4.5484291a.chunk.js.map": "/starwars/static/js/4.5484291a.chunk.js.map",
     "index.html": "/starwars/index.html",
-    "precache-manifest.f6e52f0e1c1feb2aa8abb078a2597133.js": "/starwars/precache-manifest.f6e52f0e1c1feb2aa8abb078a2597133.js",
+    "precache-manifest.b4995dbdd78ec0d395e4fd84fe7e778c.js": "/starwars/precache-manifest.b4995dbdd78ec0d395e4fd84fe7e778c.js",
     "service-worker.js": "/starwars/service-worker.js",
     "static/css/2.eb45ad44.chunk.css.map": "/starwars/static/css/2.eb45ad44.chunk.css.map",
     "static/css/3.5b8d59c5.chunk.css.map": "/starwars/static/css/3.5b8d59c5.chunk.css.map",
     "static/css/4.0cee9285.chunk.css.map": "/starwars/static/css/4.0cee9285.chunk.css.map",
-    "static/css/main.45a81e37.chunk.css.map": "/starwars/static/css/main.45a81e37.chunk.css.map",
+    "static/css/main.262c4da4.chunk.css.map": "/starwars/static/css/main.262c4da4.chunk.css.map",
     "static/media/MainPage.css": "/starwars/static/media/starsbackground.f50fd5bc.png"
   }
 }
