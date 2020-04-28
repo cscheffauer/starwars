@@ -1,0 +1,2 @@
+.Imprint{color:#000;display:block;position:relative;left:10%;width:80%;font-family:"PTSans"}.Imprint .scrollContainer{height:calc(100vh - 370px)!important}.Imprint ol{counter-reset:item;text-align:left;-webkit-padding-start:20px!important;padding-inline-start:20px!important}.Imprint li{display:block}.Imprint li:before{content:counters(item,".") " ";counter-increment:item}.Imprint .topli{font-size:25px}.topli li{font-size:20px}.Imprint a{text-decoration:none;color:#1e3b66;font-weight:700}
+/*# sourceMappingURL=3.c4a70a24.chunk.css.map */
